@@ -18,6 +18,10 @@ them.
 already has the double-click rename, so a layout uses one or the other. Mine
 uses `spaces-unread`.
 
+The files under `mods/` are the same files as in those repos: they are copies,
+not submodules, so a change to a mod has to be made in both places until the
+individual repos are retired.
+
 ## Install
 
 ```sh
